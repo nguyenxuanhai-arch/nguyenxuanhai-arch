@@ -24,9 +24,9 @@ Hệ thống luyện tập lập trình trực tuyến:
 - 🧩 Microservices với Spring Boot + RabbitMQ
 - 🔐 Auth-service với JWT & Token Blacklist
 - 🐳 Dockerized + PostgreSQL
-- [Repo](https://github.com/your-username/codechallenge)
+- [Repo](https://github.com/nguyenxuanhai-arch/CodeChallenging)
 
-### 2. [**Vaccination Management System**](https://github.com/your-username/vaccination-system)
+### 2. [**Vaccination Management System**](https://github.com/nguyenxuanhai-arch/ChildVaccineScheduleTrackingSystem)
 Phần mềm quản lý lịch tiêm cho trẻ em:
 - 👶 Quản lý trẻ & lịch tiêm
 - 📅 Đặt lịch online
