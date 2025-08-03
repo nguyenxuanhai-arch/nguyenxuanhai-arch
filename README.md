@@ -19,12 +19,11 @@
 
 ## 🌟 Dự án nổi bật
 
-### 1. [**CodeChallenge Platform**](https://github.com/your-username/codechallenge)
+### 1. [**CodeChallenge Platform**](https://github.com/nguyenxuanhai-arch/CodeChallenging)
 Hệ thống luyện tập lập trình trực tuyến:
 - 🧩 Microservices với Spring Boot + RabbitMQ
 - 🔐 Auth-service với JWT & Token Blacklist
 - 🐳 Dockerized + PostgreSQL
-- [Repo](https://github.com/nguyenxuanhai-arch/CodeChallenging)
 
 ### 2. [**Vaccination Management System**](https://github.com/nguyenxuanhai-arch/ChildVaccineScheduleTrackingSystem)
 Phần mềm quản lý lịch tiêm cho trẻ em:
