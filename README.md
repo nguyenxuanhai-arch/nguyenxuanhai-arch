@@ -34,8 +34,8 @@ Phần mềm quản lý lịch tiêm cho trẻ em:
 ---
 
 ## 📊 GitHub Stats
-![Hai's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Hai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxuanhai-arch&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenxuanhai-arch&layout=compact&theme=tokyonight)
 
 ---
 
