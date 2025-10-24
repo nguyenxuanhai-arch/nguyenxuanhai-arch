@@ -41,7 +41,7 @@ Phần mềm quản lý lịch tiêm cho trẻ em:
 
 ## 📫 Liên hệ
 - Email: **haixuan11598@gmail.com**
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/hải-nguyễn-980969326/)
 - GitHub: [github.com/nguyenxuanhai-arch](https://github.com/nguyenxuanhai-arch)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
