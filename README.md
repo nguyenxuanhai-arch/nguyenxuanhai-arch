@@ -143,7 +143,7 @@ MongoDB             ████████████░░░░░░░░
 ---
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Featured Projects
 
 <div align="center">
 
