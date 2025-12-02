@@ -318,7 +318,13 @@ Other            4 hrs 20 mins   ███░░░░░░░░░░░░�
 
 ### 🎵 Vibing to Music While Coding
 
+<!-- To enable Spotify integration, follow these steps:
+1. Go to https://github.com/kittinan/spotify-github-profile
+2. Sign in with your Spotify account
+3. Replace YOUR_SPOTIFY_ID with your actual Spotify user ID
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
+🎧 *Currently vibing to my coding playlist...*
 
 </div>
 
@@ -339,9 +345,6 @@ Other            4 hrs 20 mins   ███░░░░░░░░░░░░�
   <a href="https://github.com/nguyenxuanhai-arch">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
 </p>
 
 ### 💬 Let's Talk!
@@ -353,7 +356,8 @@ Other            4 hrs 20 mins   ███░░░░░░░░░░░░�
 </p>
 
 ### 📅 Schedule a Meeting
-[![Calendly](https://img.shields.io/badge/Schedule_a_Meeting-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/)
+<!-- Add your Calendly link below to enable meeting scheduling -->
+*📧 Feel free to reach out via email for meetings and collaborations!*
 
 </div>
 
@@ -366,9 +370,11 @@ Other            4 hrs 20 mins   ███░░░░░░░░░░░░�
 
 If you like my work, consider giving it a ⭐!
 
-<a href="https://www.buymeacoffee.com/" target="_blank">
+<!-- To enable Buy Me A Coffee, add your username:
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
 </a>
+-->
 
 </div>
 
@@ -377,9 +383,9 @@ If you like my work, consider giving it a ⭐!
 <!-- ==================== SNAKE ANIMATION ==================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenxuanhai-arch/nguyenxuanhai-arch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenxuanhai-arch/nguyenxuanhai-arch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenxuanhai-arch/nguyenxuanhai-arch/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
