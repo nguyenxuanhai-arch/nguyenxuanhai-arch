@@ -398,7 +398,7 @@ If you like my work, consider giving it a ⭐!
 ![Visitor Count](https://profile-counter.glitch.me/nguyenxuanhai-arch/count.svg)
 
 ### 🕐 Last Updated
-<img src="https://img.shields.io/badge/Last%20Updated-December%202024-green?style=flat-square" alt="Last Updated"/>
+<img src="https://img.shields.io/badge/Last%20Updated-December%202025-green?style=flat-square" alt="Last Updated"/>
 
 <br/>
 
