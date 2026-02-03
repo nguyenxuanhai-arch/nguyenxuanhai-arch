@@ -52,30 +52,6 @@ learning: [Advanced Spring Boot, Kubernetes, System Design Patterns]
 
 ---
 
-## ⭐ Featured Projects
-
-<div align="center">
-
-[![CodeChallenging](https://github-readme-stats.vercel.app/api/pin/?username=nguyenxuanhai-arch&repo=CodeChallenging&theme=tokyonight&hide_border=true)](https://github.com/nguyenxuanhai-arch/CodeChallenging)
-[![Vaccination System](https://github-readme-stats.vercel.app/api/pin/?username=nguyenxuanhai-arch&repo=ChildVaccineScheduleTrackingSystem&theme=tokyonight&hide_border=true)](https://github.com/nguyenxuanhai-arch/ChildVaccineScheduleTrackingSystem)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyenxuanhai-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenxuanhai-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenxuanhai-arch&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
