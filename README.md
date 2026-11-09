@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+Spring+Boot;Microservices+Architecture+Enthusiast)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nguyenxuanhai-arch&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nguyenxuanhai-arch?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-</p>
-
 </div>
 
 ---
